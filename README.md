@@ -2,7 +2,7 @@
 
 Página web de una cafetería hecho con CSS y HTML.
 Se realizó esta página para practicar los conceptos de HTML y CSS.
-Enlace: https://rquispeq.github.io/pagina_cafeteria
+Enlace: https://rquispeq.github.io/pagina_cafeteria/
 
 # Tecnologías utilizadas
 * HTML5
